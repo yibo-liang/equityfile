@@ -1,0 +1,2 @@
+#!/bin/bash
+screen -S "Main Rails Server | EquityFile" rails s -p 2465
